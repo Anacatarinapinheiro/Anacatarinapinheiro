@@ -8,9 +8,8 @@
 🎨 Avid reader, running enthusiast, and cinema lover <br/>
 💡 Exploring the intersection of creative arts and data analysis to deliver compelling visualizations and insights<br/>
 📚 #learninginpublic as I transition into a data-driven career<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=Anacatarinapinheiro&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anacatarinapinheiro&theme=rose&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=Anacatarinapinheiro&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) 
